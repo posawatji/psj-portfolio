@@ -1,0 +1,10 @@
+.skills{
+    display: flex;
+    justify-content: center;
+
+}
+.child01-skillImg{
+    width: 15%;
+    margin-left: 5%;
+    /* height: 30%; */
+}

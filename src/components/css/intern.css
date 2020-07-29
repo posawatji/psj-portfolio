@@ -1,0 +1,49 @@
+
+.child01-blueseasImg{
+    height: auto;
+    width: 100%;
+}
+
+.internPic-parent{
+    display: flex;
+    /* align-items: flex-start; */
+    align-items: center;
+    justify-content: space-between;
+    align-items: stretch;
+
+}
+
+.child02-internDetail-parent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.interHeader{
+    font: 20px 'opensans-bold', sans-serif;
+    color: #fff;
+    text-align: center;
+    margin: 0 auto 18px auto;
+}
+
+.blueSeaHeader{
+    font: 25px 'opensans-bold', sans-serif;
+    color: #fff;
+    text-align: center;
+
+    margin: 0 auto 18px auto;
+    text-decoration: none;
+}
+
+.blueSeaHeader:hover{
+    color: #3fb1e5;
+}
+
+
+.hrBluesea{
+    border: solid;
+    border-color: #3fb1e5;
+    width: 70%;
+    margin-bottom: 1rem;
+}
+

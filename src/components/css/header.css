@@ -1,0 +1,39 @@
+/* .header{
+    display: block;
+    
+} */
+#child01-profileImg{
+    height: 80%;
+    width: 45%;
+}
+
+.profilePic-parent{
+    display: flex;
+    /* align-items: flex-start; */
+    align-items: center;
+    justify-content: space-between;
+    align-items: stretch;
+
+}
+
+.child02-profileDetail-parent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.NameHeader{
+    font: 40px 'opensans-bold', sans-serif;
+    color: #000;
+    /* letter-spacing: -2px; */
+    margin: 0 auto 18px auto;
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, .5);
+}
+.PositionDetail{
+    font: 25px 'opensans-bold', sans-serif;
+    color: #000;
+    /* letter-spacing: -2px; */
+    margin: 0 auto 18px auto;
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, .5);
+}
+
