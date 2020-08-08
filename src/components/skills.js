@@ -1,21 +1,17 @@
 import React from 'react'
 import "./css/skills.css";
-import HTML from "../assets/html.svg";
-import CSS from "../assets/css.svg";
-import JS from "../assets/js.svg";
-import ReactPic from "../assets/react.svg";
-import SQL from "../assets/mysql.svg";
+
+import { DiGit, DiReact, DiJavascript1, DiMysql, DiCss3Full, DiHtml5 } from "react-icons/di";
 
 export default function skills() {
     return (
-        <div className="skills">
-
-            <img className="child01-skillImg" src={HTML} alt="Education Header"></img>
-            <img className="child01-skillImg" src={CSS} alt="skills Header"></img>
-            <img className="child01-skillImg" src={JS} alt="skills Header"></img>
-            <img className="child01-skillImg" src={ReactPic} alt="skills Header"></img>
-            <img className="child01-skillImg" src={SQL} alt="skills Header"></img>
-
+        <div className="skills-container">
+            <div className="skills-items"><p className="skillLogo"><DiHtml5 /></p><h3>HTML</h3></div>
+            <div className="skills-items"><p className="skillLogo"><DiCss3Full /></p><h3>CSS</h3></div>
+            <div className="skills-items"><p className="skillLogo"><DiJavascript1 /></p><h3>JAVASCRIPT</h3></div>
+            <div className="skills-items"><p className="skillLogo"><DiReact /></p><h3>REACT</h3></div>
+            <div className="skills-items"><p className="skillLogo"><DiMysql /></p><h3>MYSQL</h3></div>
+            <div className="skills-items"><p className="skillLogo"><DiGit /></p><h3>GIT</h3></div>
         </div>
     )
 }
