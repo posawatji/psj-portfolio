@@ -1,7 +1,28 @@
 
 :root {
   --off-white: #fafafa;
+  
 }
+
+/* scroll bar */
+* {
+  scrollbar-width: thin;
+}
+
+/* Works on Chrome/Edge/Safari */
+*::-webkit-scrollbar {
+  width: 10px;
+}
+*::-webkit-scrollbar-track {
+  background: #393939;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+*::-webkit-scrollbar-thumb {
+  background-color: #121212;
+  border-radius: 20px;
+  border: 2px solid #121212;
+}
+/* end scroll bar */
 
 .tittlePage{
   display: flex;
@@ -70,7 +91,7 @@
 } */
 
 .section-dark {
-  background: #333;
+  background: #1f1f1f;
   color: white;
 }
 
