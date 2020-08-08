@@ -62,12 +62,7 @@ function App() {
           id="section6"
         />
         </Fade>
-        <Section
-          title="footer"
-          subtitle={<Contact />}
-          dark={true}
-          id="section6"
-        />
+        
     </div>
   );
 }
