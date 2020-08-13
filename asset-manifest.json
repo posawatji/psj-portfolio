@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/psj-portfolio/static/css/main.d40a0560.chunk.css",
+    "main.js": "/psj-portfolio/static/js/main.faf56870.chunk.js",
+    "main.js.map": "/psj-portfolio/static/js/main.faf56870.chunk.js.map",
+    "runtime-main.js": "/psj-portfolio/static/js/runtime-main.f570ef20.js",
+    "runtime-main.js.map": "/psj-portfolio/static/js/runtime-main.f570ef20.js.map",
+    "static/js/2.42121b37.chunk.js": "/psj-portfolio/static/js/2.42121b37.chunk.js",
+    "static/js/2.42121b37.chunk.js.map": "/psj-portfolio/static/js/2.42121b37.chunk.js.map",
+    "index.html": "/psj-portfolio/index.html",
+    "precache-manifest.152a920c686d365f115f5400a5a54a8c.js": "/psj-portfolio/precache-manifest.152a920c686d365f115f5400a5a54a8c.js",
+    "service-worker.js": "/psj-portfolio/service-worker.js",
+    "static/css/main.d40a0560.chunk.css.map": "/psj-portfolio/static/css/main.d40a0560.chunk.css.map",
+    "static/js/2.42121b37.chunk.js.LICENSE.txt": "/psj-portfolio/static/js/2.42121b37.chunk.js.LICENSE.txt",
+    "static/media/blueseasLogo.svg": "/psj-portfolio/static/media/blueseasLogo.c9da9637.svg",
+    "static/media/profileHeader.png": "/psj-portfolio/static/media/profileHeader.0c0557d9.png",
+    "static/media/swu.png": "/psj-portfolio/static/media/swu.b5c25301.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f570ef20.js",
+    "static/js/2.42121b37.chunk.js",
+    "static/css/main.d40a0560.chunk.css",
+    "static/js/main.faf56870.chunk.js"
+  ]
+}
