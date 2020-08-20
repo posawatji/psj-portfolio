@@ -10,7 +10,6 @@ export default function Contact() {
              <a href="https://github.com/jamesboy888" style={{"margin-left":"1rem" }}><FaGithubSquare color="#fff" size="3rem" /></a>
              <a href="https://www.linkedin.com/in/posawat-jirawutworanat-29451019b/" style={{"margin-left":"1rem"}}><FaLinkedin color="#fff" size="3rem" /></a>
               
-             <h4 style={{"margin-top":"5%", color: "white", "text-align": "end" }}>© Copyright 2020. All Rights Reserved.</h4>
         </div>
     )
 }
